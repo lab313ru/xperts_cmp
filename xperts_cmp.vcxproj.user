@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>"d:\SegaProjects\X-Perts\xp.bin" "d:\SegaProjects\X-Perts\xp_2389A.bin" d 2389A</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"d:\SegaProjects\X-Perts\xp.bin" "d:\SegaProjects\X-Perts\xp_3F8BE2.bin" d2 3F8BE2</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArgumentsHistory>"d:\SegaProjects\X-Perts\xp.bin" "d:\SegaProjects\X-Perts\xp_3F8BE2.bin" d2 3F8BE2|</LocalDebuggerCommandArgumentsHistory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LocalDebuggerCommandArguments>"d:\SegaProjects\X-Perts\xp.bin" "d:\SegaProjects\X-Perts\xp_2389A.bin" d 2389A</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"d:\SegaProjects\X-Perts\xp.bin" "d:\SegaProjects\X-Perts\xp_3F8BE2.bin" d2 3F8BE2</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArgumentsHistory>"d:\SegaProjects\X-Perts\xp.bin" "d:\SegaProjects\X-Perts\xp_3F8BE2.bin" d2 3F8BE2|</LocalDebuggerCommandArgumentsHistory>
   </PropertyGroup>
 </Project>
